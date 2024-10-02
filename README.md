@@ -5,6 +5,8 @@ Ma certification en développement web chez Le Wagon et de ma licence en psychol
 A très vite! 
 Noréa
 
+https://www.linkedin.com/in/norea-d-86424a297/
+
 <!--
 **Noreea/Noreea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
