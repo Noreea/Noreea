@@ -1,4 +1,9 @@
-## Hi there 👋
+## Salut tout le monde 👋
+
+Ma certification en développement web chez Le Wagon et de ma licence en psychologie de l'Université Paris Cité m'offre une combinaison unique d'expertise technique et d'écoute attentive qui me permet d'aborder les problématiques sous plusieurs angles et d'offrir des solutions innovantes et efficaces.
+
+A très vite! 
+Noréa
 
 <!--
 **Noreea/Noreea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
